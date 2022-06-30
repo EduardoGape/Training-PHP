@@ -1,0 +1,53 @@
+body {
+	background: #CFCFCF;
+	font-size: 1.25rem;;
+}
+
+header {
+	text-align: center;
+}
+
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+.wrapper {
+	background: #FFFFFF;
+	margin: 10px auto;
+	max-width: 900px;
+	padding: 20px;
+}
+
+footer {
+	text-align: center;
+}
+
+
+form div {
+	margin: 15px;
+}
+
+form.clean textarea {
+	width: 80%;
+	margin: 15px auto;
+	height: 400px;
+	padding: 15px;
+	font-size: 2rem;
+	display: block;
+}
+
+.alert {
+	padding: 5px;
+	background: #880000;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+pre {
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+   }

@@ -1,0 +1,9 @@
+{
+    "problems.decorations.enabled": false,
+    "outline.problems.badges": false,
+    "problems.autoReveal": false,
+    "outline.problems.enabled": false,
+    "outline.problems.colors": false,
+    "html.validate.styles": false,
+    "css.validate": false
+}
